@@ -1,0 +1,54 @@
+.Apps {
+  /* background-image: url(robot.gif); */
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.Overlay{
+  background-color: rgba(0, 0, 0,0.1);
+}
+.App-table {
+  
+  border: none;
+  width: 100%;
+ 
+}
+.App-table th{
+  text-align: center;
+  color: rgb(41, 99, 150);
+  font-size: 35px; 
+  font-family: 'Times New Roman', Times, serif;
+ background-color: rgb(59, 194, 174);
+}
+.App-table th,
+.App-table td {
+
+  padding: 10px;
+  box-shadow: 5px 5px 10px rgba(10, 96, 123, 0.5);
+  font-weight: bold;
+  line-height: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.App-table td a{
+  text-decoration: none;
+  color: rgb(50, 50, 201);
+ 
+  
+}
+.App-table td{
+  display: flex;
+}
+.Links{
+margin-left: auto;
+color:rgb(21, 20, 22);
+}
+
+.custom-table{
+  text-decoration: none;
+  color: rgb(228, 49, 133);
+}
+.btn.btn-primary{
+  text-decoration: none;
+}
